@@ -1,3 +1,7 @@
-# Hello World
+# Ruby on Rails Tutorial
 
-## This is a rails app I completed for the first portion of the Hartl tutorial
+## "hello, world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
